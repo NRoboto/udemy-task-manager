@@ -1,5 +1,5 @@
 # udemy-task-manager
-Weather app created by following "The Complete Node.js Developer Course (3rd Edition)" on Udemy.
+Task manager API created by following "The Complete Node.js Developer Course (3rd Edition)" on Udemy.
 
 This is a RESTful API for a task keeping app. A live version is available [here](https://nroboto-task-manager.herokuapp.com/).
 
